@@ -1,6 +1,6 @@
 # Sam Olson
 
-7 years of consulting experience with a Master of Science degree in Analytics from Georgia Tech. Strong attention to detail and business acumen and experience with data & system integrations, data validation, predictive modeling, machine learning, and data visualization.
+7 years of consulting experience with a Master of Science degree in Analytics from Georgia Tech. Strong attention to detail, business acumen, and communication skills. Experience with data & system integrations, data validation, predictive modeling, machine learning, and data visualization.
 
 ## Technical Skills
 
