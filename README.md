@@ -11,7 +11,6 @@
 - Microsoft Suite
 - Workday
 - Workiva
-- Business
 
 ## Featured Projects
 
