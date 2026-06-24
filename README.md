@@ -15,7 +15,7 @@
 ## Featured Projects
 
 ### Data-Driven Pitch Optimization
-Interactive baseball analytics decision support tool using Python, K-Means clutering, and Tableau
+Interactive baseball pitch recommendation tool using Python, K-Means clustering, and Tableau
 
 View project: https://github.com/samolson0429/data-driven-pitch-optimization
 
