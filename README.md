@@ -17,6 +17,8 @@
 ### Data-Driven Pitch Optimization
 Interactive baseball analytics decision support tool using Python, K-Means clutering, and Tableau
 
+View project: https://github.com/samolson0429/data-driven-pitch-optimization
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/sam-olson-264989136/
