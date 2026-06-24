@@ -14,7 +14,8 @@
 
 ## Featured Projects
 
-Coming soon
+### Data-Driven Pitch Optimization
+Interactive baseball analytics decision support tool using Python, K-Means clutering, and Tableau
 
 ## Contact
 
