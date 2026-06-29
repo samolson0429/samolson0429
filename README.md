@@ -19,6 +19,11 @@ Interactive baseball pitch recommendation tool using Python, K-Means clustering,
 
 View project: https://github.com/samolson0429/data-driven-pitch-optimization
 
+### March Madness Prediction
+Predicting March Madness Success Using KenPom Analytics
+
+View Project: https://github.com/samolson0429/march-madness-prediction
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/sam-olson-264989136/
