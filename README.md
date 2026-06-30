@@ -24,6 +24,11 @@ Predicting March Madness Success Using KenPom Analytics
 
 View Project: https://github.com/samolson0429/march-madness-prediction
 
+### Chicago Public School Graduation Rates
+Using machine learning techniques to analyze factors that influence Chicago Public School graduation rates
+
+View Project: https://github.com/samolson0429/chicago-public-school-graduation-rates
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/sam-olson-264989136/
